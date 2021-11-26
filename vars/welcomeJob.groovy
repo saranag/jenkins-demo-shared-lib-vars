@@ -1,3 +1,3 @@
 def call(string name='User'){
-  echo "Welcome $(name)."
+  echo "Welcome ${name}."
 }
